@@ -4,7 +4,8 @@
  <h1 style=" background-color: rgb(38, 107, 187); color: rgb(255, 255, 255); padding: 50px;  text-align: center; font-family: Segoe UI; font-size: 2.5em; " >BEAUTTAH KIPRUTO </h1>
  
  #   
- <img src="https://drive.google.com/file/d/1hlXRgUZENzxIbgR-VoNzbuG4L9RUB5DQ/view?usp=drive_link"  alt="Beauttah Kip"  style=" border-radius: 0 100px;  border: 7px dashed  rgb(38, 107, 187); "/>
+ <img src="https://i.pinimg.com/1200x/21/3f/d3/213fd338b15478cc0b83eafb7c9ab0ac.jpg
+"  alt="Beauttah Kip"  style=" border-radius: 0 100px;  border: 7px dashed  rgb(38, 107, 187); "/>
 
 🏫 **A comprehensive Qt-based GUI application for complete educational institution management**
 
