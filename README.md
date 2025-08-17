@@ -54,6 +54,58 @@ This advanced C++ application provides a modern, user-friendly interface for man
 - Calendar widgets for scheduling and planning
 - Progress tracking and notification systems
 
+### **📐 System Architecture Overview**
+
+The system follows a **4-layer architecture** for optimal scalability and maintainability:
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    PRESENTATION LAYER                       │
+│     Qt6 GUI • Navigation • System Tray • Menus             │
+├─────────────────────────────────────────────────────────────┤
+│                     BUSINESS LAYER                          │
+│  Student Mgmt (150+ tools) • Teacher • Finance • More      │
+├─────────────────────────────────────────────────────────────┤
+│                      DATA LAYER                             │
+│    Data Models • File I/O • Settings • Future Database     │
+├─────────────────────────────────────────────────────────────┤
+│                   INTEGRATION LAYER                         │
+│   Email • SMS • Biometric • Payment • Cloud Services       │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### **🎓 Student Management Architecture**
+
+The core Student Management module contains **150+ specialized tools** organized into 5 categories:
+
+| Category | Tools | Key Features |
+|----------|-------|-------------|
+| 📋 **Registration & Admission** | 30+ | Online portal, document verification, medical exams, scholarship eligibility |
+| 📊 **Records Management** | 30+ | Personal info, academic records, health records, achievement portfolios |
+| 📈 **Performance Tracking** | 30+ | Grade books, progress reports, competency mapping, analytics |
+| 💬 **Communication & Engagement** | 30+ | Parent portals, email systems, SMS services, virtual classrooms |
+| 🛠️ **Student Services & Support** | 30+ | Counseling services, financial aid, health insurance, career guidance |
+
+### **📊 Visual Architecture Diagrams**
+
+Detailed architectural diagrams are available in the `docs/` directory:
+
+- **[📄 Complete Architecture Documentation](docs/architecture.md)** - Comprehensive technical documentation
+- **[🐍 Diagram Generator Script](docs/generate_architecture_diagram.py)** - Python script to create visual diagrams
+
+**To generate visual architecture diagrams:**
+
+```bash
+cd docs
+pip install matplotlib seaborn
+python generate_architecture_diagram.py
+```
+
+This creates professional diagrams:
+- `Institution_Architecture_Diagram.png` - Complete system overview
+- `Student_Module_Architecture.png` - Detailed student module breakdown
+- Both available in PDF format as well
+
 ## 🛠️ Technical Specifications
 
 ### **Prerequisites**
