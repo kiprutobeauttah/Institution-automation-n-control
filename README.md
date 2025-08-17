@@ -1,5 +1,13 @@
 # Institution Automation and Control System v2.0
+# 
+<br>
+ <h1 style=" background-color: rgb(38, 107, 187); color: rgb(255, 255, 255); padding: 50px;  text-align: center; font-family: Segoe UI; font-size: 2.5em; " >BEAUTTAH KIPRUTO </h1>
+ 
+ #   
+ <img src="473080373_122149803470326700_6473534898721191903_n.jpg" width="300px" height="730px" align="center" alt="Beauttah Kip"  style=" border-radius: 0 100px;  border: 7px dashed  rgb(38, 107, 187); "/>
 
+#
+<button style=" background-color: rgb(38, 107, 187); padding: 9px; border: none; text-align: center; font-family: Segoe UI; font-size: 1.5em; width: 100%;" ><a href="mailto:kiprutobeauttah@gmail.com" style=" color: rgb(255, 255, 255); text-align: center;">Email Me</a></button>
 🏫 **A comprehensive Qt-based GUI application for complete educational institution management**
 
 This advanced C++ application provides a modern, user-friendly interface for managing all aspects of educational institutions with over 150+ specialized tools and functions across multiple management modules.
